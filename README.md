@@ -1,3 +1,6 @@
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/3845dfa9-427a-437a-b23d-16cb5e35d32d" />
+
+
 This project documents the deployment and validation of a Kali Linux virtual machine within VMware Workstation. The objective was to establish a functional cybersecurity testing environment and demonstrate foundational Linux administration skills commonly used in penetration testing, digital forensics, and security operations.
 
 ---
