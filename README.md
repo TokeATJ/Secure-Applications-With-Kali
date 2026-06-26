@@ -36,17 +36,11 @@ The first step was validating that the Kali Linux virtual machine successfully r
 ```bash
 ifconfig
 
-sudo dhclient -v
-
-wget http://google.com
 ```
 
 ## Evidence
 
 <img width="710" height="409" alt="image" src="https://github.com/user-attachments/assets/2af62431-80bb-4a3e-bcf9-358a5f9faae6" />
-
-
-
 
 ### Outcome
 
@@ -63,11 +57,9 @@ A text file was created and modified using basic Linux commands.
 ## Commands
 
 ```bash
-touch myfile.txt
-
+cat myfile.txt
 echo 'echo "inside the file";' > myfile.txt
 
-cat myfile.txt
 ```
 
 ## Evidence
